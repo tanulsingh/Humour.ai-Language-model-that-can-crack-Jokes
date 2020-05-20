@@ -12,4 +12,4 @@ The first one is really hilarious given the fact that model doesn't know my name
 
 ![Image description](https://github.com/tanulsingh/Humour.ai/blob/master/Demo/Tanul.PNG)
 
-![Image description](https://github.com/tanulsingh/Humour.ai/blob/master/Demo/Tanul.PNG)
+![Image description](https://github.com/tanulsingh/Humour.ai/blob/master/Demo/saving.PNG)
