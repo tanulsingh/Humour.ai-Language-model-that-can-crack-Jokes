@@ -33,6 +33,7 @@ num_added_toks = config.Tokenizer.add_special_tokens(special_tokens_dict)
 print('We have added', num_added_toks, 'tokens')
 model.resize_token_embeddings(len(config.Tokenizer)) 
 
+#loading Model State
 models_path = "/kaggle/input/fine-tuning-open-gp-2/trained_models/gpt2_medium_joker_0.pt" # ADD PATH TO YOUR SAVED MODEL HERE
 model.load_state_dict(torch.load(models_path))
 
